@@ -1,0 +1,24 @@
+1. When creating a Maven project, how can you use a template to create the project with a predefined structure?
+[ ] a- Create from Example
+[ ] b- You can’t
+[x] c- Create from Archetype
+[ ] d- Create from Template
+
+2. When importing a project from a Version Control System, what are the available Version Control Systems enabled by default in IntelliJ?
+[ ] a- Git
+[ ] b- Subversion
+[x] c- Git, Mercurial, and Subversion
+[ ] d- Mercurial
+
+3. Is it possible to have several open projects at the same time?
+[ ] a- No, you can only have one project open at one time
+[x] b- Yes, by opening each project in a new window
+
+4. Is there an option to always open a new project in the same window?
+[x] a- Yes, by clicking the ‘Remember, don’t ask again?’ checkbox in the screen where you choose to open a new project in the same window
+[ ] b- No
+
+5. What is the option to create a new project from existing code found on your computer?
+[x] a- File → New Project from Existing Sources
+[ ] b- File → New Project from Version Control
+[ ] c- File → New Project

@@ -1,0 +1,32 @@
+1. Where can you find a list of all the available keyboard shortcuts?
+[x] a- In the Help menu, by clicking ‘Keymap reference’
+[ ] b- In the View menu
+[ ] c- In the VCS menu
+[ ] d- In the File menu
+
+2. In the menus, what indicates that a menu entry also has an attached keyboard shortcut?
+[x] a- The key combination displayed on the right side of the menu entry
+[ ] b- There is no such indication
+
+3. How often do you need to save files when working in IntelliJ?
+[ ] a- Every time you edit the files
+[ ] b- As often as possible
+[x] c- Never. There is an autosave feature that saves the files in real time
+
+4. What menu provides options to show and hide the Navigation bar, status bar, and Tool Window Bars?
+[ ] a- File
+[x] b- View
+[ ] c- New
+[ ] d- Help
+
+5. From which menu entry can you see the list of most recently opened projects?
+[ ] a- File → Close Project
+[x] b- File → Open Recent
+[ ] c- File → New
+[ ] d- File → Open
+
+6. Where in IntelliJ can you set the Java JDK version and Language level?
+[ ] a- The Help menu
+[ ] b- Settings menu
+[x] c- Project Structure menu
+[ ] d- The View menu

@@ -1,0 +1,23 @@
+1. What can you perform code analysis on?
+[ ] a- A folder
+[ ] b- Uncommitted files
+[ ] c- The whole project
+[x] d- All of the above
+
+2. What do the numbers next to each type of issue found represent?
+[x] a- In how many places in the code the issue was found
+[ ] b- How long it took for the inspection to be run
+[ ] c- How many times the check was made
+[ ] d- How many lines of code there are in the class
+
+3. How can you remove a field from a check so that it is not inspected the next time the analysis on the code is made?
+[x] a- You can Suppress it
+[ ] b- You can Ignore it
+[ ] c- You can Discard it
+[ ] d- You can Expand it
+
+4. On what levels can you fix an issue from the Inspection Result screen?
+[ ] a- The item level (the entry in the results list that will take you directly to the code when you click it)
+[ ] b- The class level
+[ ] c- The category level
+[x] d- All of the above

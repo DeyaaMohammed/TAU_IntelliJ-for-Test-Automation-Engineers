@@ -1,0 +1,22 @@
+1. What can you run?
+[ ] a- A test package
+[ ] b- A test class
+[ ] c- A test method
+[x] d- All of the above
+
+2. How can you run several tests in parallel, while storing the results of a run?
+[ ] a- By closing all the open test tabs in the editor
+[ ] b- By debugging one of the tests
+[ ] c- You can’t
+[x] d- By pinning the tab where the tests results are
+
+3. Where in the Edit Configurations screen can you set a system variable that will be used for all the test runs that will follow?
+[ ] a- In the Kotlin screen
+[ ] b- In the Maven screen
+[x] c- In the JUnit (or TestNG, depending on what you are using) screen
+[ ] d- In the Groovy screen
+
+4. What re-run options do you have in the Run screen?
+[ ] a- Rerun
+[ ] b- Rerun failed
+[x] c- All of the above

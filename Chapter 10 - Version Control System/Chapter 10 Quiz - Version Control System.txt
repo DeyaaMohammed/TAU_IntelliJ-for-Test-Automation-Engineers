@@ -1,0 +1,23 @@
+1. What options of working with Git do you have available in IntelliJ?
+[ ] a- Commit directory
+[ ] b- Revert
+[ ] c- Stash
+[x] d- All of the above
+
+2. What color are the names of new files (not yet committed to Git)?
+[ ] a- Yellow
+[x] b- Green
+[ ] c- Blue
+[ ] d- Red
+
+3. What are some of the available options in the Commit Changes screen?
+[ ] a- Update IntelliJ
+[ ] b- Build the project
+[ ] c- Change shortcuts
+[x] d- Perform code analysis
+
+4. What do you need to do in order for the code to end up in Git, in the Commit Changes screen?
+[x] a- Commit and Push
+[ ] b- Commit
+[ ] c- Create Patch
+[ ] d- Revert

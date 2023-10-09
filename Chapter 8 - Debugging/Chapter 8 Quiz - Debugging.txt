@@ -1,0 +1,22 @@
+1. What is the shortcut for evaluating the value of an expression?
+[ ] a- Ctrl + N
+[ ] b- Double Shift
+[x] c- Alt + F8
+[ ] d- Ctrl + Alt
+
+2. How can you debug a test class?
+[ ] a- By right-clicking the name of the class in the Project screen and choosing ‘Debug’ from the list of options
+[ ] b- From the editor in the left-hand menu by right-clicking the ‘Run’ icon and choosing ‘Debug’ from the list of options
+[ ] c- By right-clicking the name of the class in the editor and choosing ‘Debug’ from the list of options
+[x] d- All of the above
+
+3. Where in the Debug screen can you see the output of a System.out.println?
+[ ] a- You can’t
+[x] b- In the Console area
+[ ] c- In the Debugger area
+
+4. What is needed in order to be able to debug a class?
+[x] a- A breakpoint
+[ ] b- An open browser
+[ ] c- A test configuration
+[ ] d- The class to be pinned

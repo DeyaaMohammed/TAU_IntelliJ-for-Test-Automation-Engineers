@@ -1,0 +1,23 @@
+1. How can you mark folders as Sources folders or Resources folders?
+[ ] a- From the Keymap
+[ ] b- From the Help menu
+[x] c- From the Mark Directory As menu
+[ ] d- From the Git menu
+
+2. Where can you see the list of previous versions of a file you are working on?
+[ ] a- In the Project structure screen
+[ ] b- In the Help menu
+[ ] c- In the search menu
+[x] d- In Local History
+
+3. What is the shortcut for creating a Javadoc comment?
+[ ] a- Type //todo
+[ ] b- Type //
+[ ] c- Type /
+[x] d- Type /** and Enter
+
+4. How can you create a TODO?
+[x] a- Type //todo
+[ ] b- Type //
+[ ] c- Type /
+[ ] d- Type /** and Enter

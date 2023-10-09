@@ -1,0 +1,20 @@
+1. What is the name of the free IntelliJ version?
+[x] a- Community
+[ ] b- Ultimate
+[ ] c- There is no free version
+[ ] d- Alpha Centauri
+
+2. Where can you see what is new in the latest IntelliJ version?
+[x] a- On the What’s New page
+[ ] b- On the Jetbrains home page
+[ ] c- On the download page
+
+3. What OSs does IntelliJ run on?
+[ ] a- Windows Only
+[ ] b- Linux Only
+[x] c- Windows, Mac, and Linux
+[ ] d- Mac Only
+
+4. How can you set up IntelliJ to open .java files by default?
+[ ] a- You can’t
+[x] b- In the setup process, by checking the ‘.java’ checkbox in the ‘Create Associations’ section

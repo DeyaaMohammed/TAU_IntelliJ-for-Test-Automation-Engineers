@@ -1,0 +1,17 @@
+1. Which screen shows the structure of the currently open project?
+[x] a- The Project screen
+[ ] b- The Run screen
+[ ] c- The Maven screen
+[ ] d- The Terminal screen
+
+2. What does the icon of a package shown in the Project screen look like?
+[ ] a- A grey folder
+[ ] b- A blue folder
+[x] c- A grey folder with a white dot inside it
+[ ] d- A green folder
+
+3. What are some of the Maven operations you can do from the Maven screen?
+[ ] a- Run Lifecycle goals, like clean and install
+[ ] b- Skip tests when running a Maven goal
+[ ] c- Reimport the Maven project
+[x] d- All of the above

@@ -1,0 +1,23 @@
+1. In the Create Class window, what can we select from the dropdown in order to create it?
+[ ] a- A class
+[ ] b- An interface
+[ ] c- An enum
+[x] d- All of the above
+
+2. What does an unused field in a class look like?
+[ ] a- It has a red name
+[x] b- It has a gray name
+[ ] c- It has a green name
+[ ] d- It has a blue name
+
+3. What happens when typing the name of a field inside a method and then typing the ‘.’ character?
+[ ] a- The test starts running
+[ ] b- A list of possible imports is displayed
+[x] c- IntelliJ shows the list of implemented methods that can be used on the field
+[ ] d- The browser opens
+
+4. How does IntelliJ help with typing annotations for annotated methods, like @BeforeAll or @Test?
+[ ] a- It does not
+[x] b- It shows a list of available annotations after you type @
+[ ] c- You can select an annotation from the File menu
+[ ] d- You can find the available annotations in the Keymap

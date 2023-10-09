@@ -1,0 +1,19 @@
+1. What type of upgrades are provided for IntelliJ?
+[ ] a- The tool does not support upgrades
+[ ] b- Only one update per year
+[x] c- Minor and major releases 
+
+2. For a major upgrade, is it possible to keep the settings of an existing IntelliJ installation so that the new version has these settings?
+[ ] a- No, the settings cannot be kept in the new installation
+[x] b- Yes, by choosing to import the settings from the previously installed IntelliJ version
+
+3. What happens when a new minor update is available?
+[ ] a- You need to go to the official website, download the kit and manually install it
+[ ] b- No minor updates are provided
+[x] c- You can perform an update directly from IntelliJ, which includes a restart
+
+4. Where can you find additional plugins to add to your IntelliJ installation, such as the Cucumber plugin?
+[ ] a- On the website
+[ ] b- By going to Settings → Keymap
+[x] c- By going to Settings → Plugins
+[ ] d- By going to File → New

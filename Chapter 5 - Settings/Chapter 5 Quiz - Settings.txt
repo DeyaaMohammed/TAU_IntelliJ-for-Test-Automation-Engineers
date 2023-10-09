@@ -1,0 +1,23 @@
+1. Where can you change the size of the font of the text editor in Settings?
+[ ] a- In the Version control screen
+[ ] b- In the Keymap screen
+[x] c- In the Editor → Font screen
+[ ] d- In the Inspections screen
+
+2. Where can you change the theme in Settings?
+[ ] a- In the Keymap screen
+[ ] b- In the Inspections screen
+[ ] c- In the Version control screen
+[x] d- In the Appearance & Behavior → Appearance screen
+
+3. Where can you change the shortcuts you are using?
+[ ] a- In the Version control screen
+[ ] b- In the Inspections screen
+[x] c- In the Keymap screen
+[ ] d- In the Appearance screen
+
+4. In which menu can you find the Settings?
+[ ] a- Help
+[x] b- File
+[ ] c- View
+[ ] d- Edit
