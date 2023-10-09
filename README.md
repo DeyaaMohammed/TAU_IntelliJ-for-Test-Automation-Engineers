@@ -18,7 +18,7 @@ The "[IntelliJ for Test Automation Engineers](https://testautomationu.applitools
 The repository is organized as follows:
 
 - `Chapter X/`: Each chapter of the course has its own directory.
-  - `Chapter X.Y Quiz.txt`: Within each chapter directory, you will find test files corresponding to the quizzes in the course. These files contain my responses to the quiz questions.
+  - `Chapter X.Y Quiz.txt`: Within each chapter directory, you will find text files corresponding to the quizzes in the course. These files contain my responses to the quiz questions.
 
 ## Usage
 
